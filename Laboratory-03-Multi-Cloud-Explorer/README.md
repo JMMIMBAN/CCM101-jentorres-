@@ -15,19 +15,19 @@ A Linux Playground was launched using KillerCoda. The following commands were us
 
 ### Operating System
 
-![Operating System](OS_screenshot.png)
+![Operating System](screenshots/OS_screenshot.png)
 
 ### CPU Information
 
-![CPU Information](cpu_Screenshot.png)
+![CPU Information](screenshots/cpu_Screenshot.png)
 
 ### Memory
 
-![Memory Information](memory_Screenshot.png)
+![Memory Information](screenshots/memory_Screenshot.png)
 
 ### Disk Space
 
-![Disk Space](diskspace_Screenshot.png)
+![Disk Space](screenshots/diskspace_Screenshot.png)
 
 ## Cloud Migration
 
