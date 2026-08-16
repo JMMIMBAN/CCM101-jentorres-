@@ -14,7 +14,7 @@ The **Azure Portal** is a web-based management console. Users can create, manage
 
 ### Screenshot
 
-![Azure Portal](azure_screenshot.png)
+![Azure Portal](screenshots/azure_screenshot.png)
 
 ## 4. Four Core Services
 
