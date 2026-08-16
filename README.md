@@ -1,4 +1,4 @@
 # CCM101-jentorres
+JOHN MICHAEL MIMBAN
+BSIT 4K
 
-Mark Vincent Omaoid
-BSIT 4-K
