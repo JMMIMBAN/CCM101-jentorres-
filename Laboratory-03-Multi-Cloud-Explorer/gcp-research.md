@@ -14,7 +14,7 @@ The **Google Cloud Console** is a web-based management console. Users can create
 
 ### Screenshot
 
-![Google Cloud Console](gcp_screenshot.png)
+![Google Cloud Console](screenshots/gcp_screenshot.png)
 
 ## 4. Four Core Services
 
